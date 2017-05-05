@@ -6,7 +6,7 @@
 	<groupId>com.metech.socialmedia</groupId>
 	<artifactId>sociomedia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>sociomedia</name>
 	<description>Demo project for Spring Boot</description>
